@@ -5,7 +5,7 @@ Implement mutual conversion between virtual endoscope and real endoscope images 
 
 ![image](https://github.com/snake-head/CycleGAN/assets/62976678/45fd74c4-2f96-4679-823c-5b718add1883)
 
-|          Table 1. Performance on synthetic colonoscopy datasets of DenseDepth          |
+**Table 1. Performance on synthetic colonoscopy datasets of DenseDepth**
 |     Method     | 𝐿1 (cm) | 𝐿𝑅𝑀𝑆𝐸 (cm) | 𝐿𝑟𝑒𝑙 (%) |
 | :------------: | :-----: | :----------: | :---------: |
 |  DenseDepth    |  0.038  |    0.066     |    1.22     |
