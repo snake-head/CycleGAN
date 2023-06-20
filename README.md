@@ -29,3 +29,6 @@ Implement mutual conversion between virtual endoscope and real endoscope images 
 ## Style Migration
 
 ![image](https://github.com/snake-head/CycleGAN/assets/62976678/5c0a6e66-4203-435d-8a92-462282c1808b)
+
+**Results**
+![image](https://github.com/snake-head/CycleGAN/assets/62976678/7f5e04f5-19eb-4ea0-a4b9-04eab1946940)
